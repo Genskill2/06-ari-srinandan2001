@@ -3,9 +3,6 @@
 #include <string.h>
 #include<math.h>
 #include<ctype.h>
-int main(void)
-{
-}
     string ari(string);
     string ari(string p)
     {
